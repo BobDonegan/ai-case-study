@@ -1,6 +1,7 @@
 # ai-case-study
 Incorporation Date: OpenAI was incorporated in December 2015.
-[Link Text](AI Homework")
+[[OPEN AI](https://openai.com/)](AI Homework")
+>"The only way to do great work is to love what you do." - Steve Jobs 
 ## FOUNDERS : The company was founded by Elon Musk, Sam Altman, Greg Brockman, Ilya Sutskever, Wojciech Zaremba, and John Schulman. These founders come from diverse backgrounds in technology and business, notably from organizations like Tesla, Y Combinator, and Google.
 
 Origins of the Idea: The idea behind OpenAI stemmed from a desire to advance digital intelligence in a way that is most likely to benefit humanity as a whole, rather than being controlled by a single entity. The founders were motivated by considerations around the safety and ethical implications of artificial intelligence, aiming to promote and develop friendly AI to help address global challenges.
