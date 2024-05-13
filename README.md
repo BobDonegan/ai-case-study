@@ -1,11 +1,11 @@
 # ai-case-study
 Incorporation Date: OpenAI was incorporated in December 2015.
 
-Founders: The company was founded by Elon Musk, Sam Altman, Greg Brockman, Ilya Sutskever, Wojciech Zaremba, and John Schulman. These founders come from diverse backgrounds in technology and business, notably from organizations like Tesla, Y Combinator, and Google.
+FOUNDERS : The company was founded by Elon Musk, Sam Altman, Greg Brockman, Ilya Sutskever, Wojciech Zaremba, and John Schulman. These founders come from diverse backgrounds in technology and business, notably from organizations like Tesla, Y Combinator, and Google.
 
 Origins of the Idea: The idea behind OpenAI stemmed from a desire to advance digital intelligence in a way that is most likely to benefit humanity as a whole, rather than being controlled by a single entity. The founders were motivated by considerations around the safety and ethical implications of artificial intelligence, aiming to promote and develop friendly AI to help address global challenges.
 
-Funding: OpenAI was initially founded as a non-profit organization and later restructured into a "capped-profit" entity. This change allowed it to attract outside investment while still prioritizing its mission over profit-making. The most notable funding came in 2019 when Microsoft invested $1 billion. This partnership with Microsoft aimed to accelerate the advancements in AI technology and democratize AI through supercomputing and cloud technologies. Additionally, OpenAI has received funding from various other private investors, though the total funding amount has varied over time with additional rounds and agreements.
+*Funding*: OpenAI was initially founded as a non-profit organization and later restructured into a "capped-profit" entity. This change allowed it to attract outside investment while still prioritizing its mission over profit-making. The most notable funding came in 2019 when Microsoft invested $1 billion. This partnership with Microsoft aimed to accelerate the advancements in AI technology and democratize AI through supercomputing and cloud technologies. Additionally, OpenAI has received funding from various other private investors, though the total funding amount has varied over time with additional rounds and agreements.
 OpenAI is addressing several profound challenges in the AI space:
 
 Specific Problem: OpenAI focuses on advancing artificial intelligence in a safe, ethical, and transparent manner, ensuring that AI technologies benefit all of humanity. A central part of its mission is to mitigate the risks associated with powerful AI systems, which can include issues like ethical AI use, AI alignment with human values, and the prevention of harmful AI behaviors.
